@@ -7,3 +7,4 @@ if __name__ == '__main__':
     main()
     #New day — new print
     #xdxdxdxdxddxdxdxdxdxdxdxdxdxdxdxdxdxdxd
+#xdzx ,dsmcdm;lvml; github repka hahahahhaa
